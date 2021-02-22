@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e919ffb-0500-4315-914a-cbfd76d81c89" name="Default Changelist" comment="" />
+    <list default="true" id="0e919ffb-0500-4315-914a-cbfd76d81c89" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1opCApvMY188WzIMaaWgpfjtGnk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -16,6 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -26,11 +34,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613974003771</updated>
-      <workItem from="1613974004792" duration="92000" />
+      <workItem from="1613974004792" duration="704000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1613974232509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613974232509</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="69" key="CommitChangelistDialog2" timestamp="1613974232334">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state x="424" y="69" key="CommitChangelistDialog2/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1613974232334" />
+    <state x="349" y="135" key="SettingsEditor" timestamp="1613974457171">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state x="349" y="135" key="SettingsEditor/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1613974457171" />
+    <state x="440" y="236" key="Vcs.Push.Dialog.v2" timestamp="1613974563052">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state x="440" y="236" key="Vcs.Push.Dialog.v2/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1613974563052" />
+    <state x="662" y="397" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1613974558886">
+      <screen x="0" y="25" width="1680" height="949" />
+    </state>
+    <state x="662" y="397" key="git4idea.remote.GitConfigureRemotesDialog/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1613974558886" />
   </component>
 </project>
