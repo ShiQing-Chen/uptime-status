@@ -16,10 +16,16 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e919ffb-0500-4315-914a-cbfd76d81c89" name="Default Changelist" comment="">
+    <list default="true" id="0e919ffb-0500-4315-914a-cbfd76d81c89" name="Default Changelist" comment="change config">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/config.js" afterDir="false" />
     </list>
@@ -31,8 +37,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="f328d09e-6836-4f40-b474-cef445b6ba3e" />
+  </component>
   <component name="ProjectId" id="1opCApvMY188WzIMaaWgpfjtGnk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,8 +52,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -52,7 +69,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613974003771</updated>
-      <workItem from="1613974004792" duration="1613000" />
+      <workItem from="1613974004792" duration="1966000" />
+      <workItem from="1613977498156" duration="1120000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1613974232509</created>
@@ -75,7 +93,28 @@
       <option name="project" value="LOCAL" />
       <updated>1613976727037</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="change config">
+      <created>1613977107812</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613977107812</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add .gitignore">
+      <created>1613978262989</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613978262989</updated>
+    </task>
+    <task id="LOCAL-00006" summary="change config">
+      <created>1613978497159</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613978497159</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,39 +125,59 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
+    <MESSAGE value="add .gitignore" />
     <MESSAGE value="change config" />
     <option name="LAST_COMMIT_MESSAGE" value="change config" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="424" y="69" key="CommitChangelistDialog2" timestamp="1613976726866">
+    <state x="424" y="69" key="CommitChangelistDialog2" timestamp="1613978497052">
       <screen x="0" y="25" width="1680" height="953" />
     </state>
     <state x="424" y="69" key="CommitChangelistDialog2/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1613974767175" />
-    <state x="424" y="69" key="CommitChangelistDialog2/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1613976726866" />
-    <state x="100" y="125" width="1480" height="749" key="DiffContextDialog" timestamp="1613977101182">
+    <state x="424" y="69" key="CommitChangelistDialog2/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1613978497052" />
+    <state x="100" y="125" width="1480" height="749" key="DiffContextDialog" timestamp="1613978636402">
       <screen x="0" y="25" width="1680" height="953" />
     </state>
-    <state x="100" y="125" width="1480" height="749" key="DiffContextDialog/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1613977101182" />
-    <state x="349" y="135" key="SettingsEditor" timestamp="1613974457171">
-      <screen x="0" y="25" width="1680" height="949" />
+    <state x="100" y="125" width="1480" height="749" key="DiffContextDialog/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1613978636402" />
+    <state x="205" y="126" key="SettingsEditor" timestamp="1613978520682">
+      <screen x="0" y="25" width="1680" height="953" />
     </state>
     <state x="349" y="135" key="SettingsEditor/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1613974457171" />
-    <state x="440" y="237" key="Vcs.Push.Dialog.v2" timestamp="1613976747803">
+    <state x="205" y="126" key="SettingsEditor/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1613978520682" />
+    <state x="440" y="237" key="Vcs.Push.Dialog.v2" timestamp="1613978500016">
       <screen x="0" y="25" width="1680" height="953" />
     </state>
     <state x="440" y="236" key="Vcs.Push.Dialog.v2/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1613974768406" />
-    <state x="440" y="237" key="Vcs.Push.Dialog.v2/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1613976747803" />
-    <state x="662" y="397" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1613974558886">
-      <screen x="0" y="25" width="1680" height="949" />
+    <state x="440" y="237" key="Vcs.Push.Dialog.v2/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1613978500016" />
+    <state x="641" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613977992081">
+      <screen x="0" y="25" width="1680" height="953" />
+    </state>
+    <state x="641" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1613977992081" />
+    <state x="662" y="399" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1613977233499">
+      <screen x="0" y="25" width="1680" height="953" />
     </state>
     <state x="662" y="397" key="git4idea.remote.GitConfigureRemotesDialog/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1613974558886" />
+    <state x="662" y="399" key="git4idea.remote.GitConfigureRemotesDialog/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1613977233499" />
   </component>
 </project>
