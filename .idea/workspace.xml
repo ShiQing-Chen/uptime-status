@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0e919ffb-0500-4315-914a-cbfd76d81c89" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613974003771</updated>
-      <workItem from="1613974004792" duration="1241000" />
+      <workItem from="1613974004792" duration="1613000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1613974232509</created>
@@ -49,11 +68,29 @@
       <option name="project" value="LOCAL" />
       <updated>1613974767292</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change config">
+      <created>1613976727037</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613976727037</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
@@ -61,18 +98,24 @@
     <option name="LAST_COMMIT_MESSAGE" value="change config" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="424" y="69" key="CommitChangelistDialog2" timestamp="1613974767175">
-      <screen x="0" y="25" width="1680" height="949" />
+    <state x="424" y="69" key="CommitChangelistDialog2" timestamp="1613976726866">
+      <screen x="0" y="25" width="1680" height="953" />
     </state>
     <state x="424" y="69" key="CommitChangelistDialog2/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1613974767175" />
+    <state x="424" y="69" key="CommitChangelistDialog2/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1613976726866" />
+    <state x="100" y="125" width="1480" height="749" key="DiffContextDialog" timestamp="1613977101182">
+      <screen x="0" y="25" width="1680" height="953" />
+    </state>
+    <state x="100" y="125" width="1480" height="749" key="DiffContextDialog/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1613977101182" />
     <state x="349" y="135" key="SettingsEditor" timestamp="1613974457171">
       <screen x="0" y="25" width="1680" height="949" />
     </state>
     <state x="349" y="135" key="SettingsEditor/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1613974457171" />
-    <state x="440" y="236" key="Vcs.Push.Dialog.v2" timestamp="1613974768406">
-      <screen x="0" y="25" width="1680" height="949" />
+    <state x="440" y="237" key="Vcs.Push.Dialog.v2" timestamp="1613976747803">
+      <screen x="0" y="25" width="1680" height="953" />
     </state>
     <state x="440" y="236" key="Vcs.Push.Dialog.v2/1680.25.1920.1055/0.25.1680.949@0.25.1680.949" timestamp="1613974768406" />
+    <state x="440" y="237" key="Vcs.Push.Dialog.v2/1680.25.1920.1055/0.25.1680.953@0.25.1680.953" timestamp="1613976747803" />
     <state x="662" y="397" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1613974558886">
       <screen x="0" y="25" width="1680" height="949" />
     </state>
